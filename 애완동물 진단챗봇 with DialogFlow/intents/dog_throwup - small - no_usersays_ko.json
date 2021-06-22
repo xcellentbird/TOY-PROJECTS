@@ -1,0 +1,119 @@
+[
+  {
+    "id": "c400a90c-7c25-48ab-ba8b-e4426f1dd8b8",
+    "data": [
+      {
+        "text": "아니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5e915034-0ce5-4cd6-b735-415f4967361e",
+    "data": [
+      {
+        "text": "고맙지만 됐어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "04e761dc-a792-41ed-acb9-3cef2db2c53d",
+    "data": [
+      {
+        "text": "그건 아니지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6add5044-3fef-4069-a244-e412db2d51de",
+    "data": [
+      {
+        "text": "절대 아니야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "93866823-9ede-4024-9fc9-81c23391de56",
+    "data": [
+      {
+        "text": "관심 없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "71791839-c547-4001-9d2e-8462ab634a27",
+    "data": [
+      {
+        "text": "싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ba9a0279-2e74-4e3e-92f0-3e7f2dd65ee6",
+    "data": [
+      {
+        "text": "아닌 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2202cc20-b901-404d-9928-ec5b1376a68c",
+    "data": [
+      {
+        "text": "하지 마",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4bb7b048-f490-4916-8ed0-810ef02a6aad",
+    "data": [
+      {
+        "text": "내 생각은 달라",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  }
+]

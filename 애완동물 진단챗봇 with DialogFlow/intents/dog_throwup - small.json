@@ -1,0 +1,59 @@
+{
+  "id": "06c8c1fd-5196-45d5-9de6-38e2409245dc",
+  "parentId": "3f297d30-8e74-495a-b816-5305030bfc21",
+  "rootParentId": "3f297d30-8e74-495a-b816-5305030bfc21",
+  "name": "dog_throwup - small",
+  "auto": true,
+  "contexts": [
+    "dog_throwup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dog_throwup.dog_throwup-custom",
+      "affectedContexts": [
+        {
+          "name": "dog_throwup-small-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "06d78e16-ddae-40d2-a85f-c7369325010c",
+          "name": "throwup",
+          "required": false,
+          "dataType": "@throwup",
+          "value": "$throwup",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "작은 알갱이라면, 아마 색이 진하거나 혈액이 섞여있을 거에요. 피가 섞여있다면 식도나 위장에 문제가 있는 걸로 볼 수 있어요. 가까운 병원에 가시는 게 좋을 것 같아요. 주위에 있는 동물 병원을 찾아봐드릴까요?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

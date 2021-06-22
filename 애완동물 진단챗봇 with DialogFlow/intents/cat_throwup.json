@@ -1,0 +1,55 @@
+{
+  "id": "9c2517c8-8750-4326-8fe5-891602afa381",
+  "name": "cat_throwup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "cat_throwup-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "daba0adf-3dee-4b00-a39e-b52e3b374909",
+          "name": "animal",
+          "required": false,
+          "dataType": "@Animal",
+          "value": "$animal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "혹시 구토가 핑크나 빨강, 갈색에 가깝나요?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

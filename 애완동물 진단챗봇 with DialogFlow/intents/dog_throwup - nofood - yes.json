@@ -1,0 +1,39 @@
+{
+  "id": "7a8eb371-d47e-4d65-ba84-dc859b905a28",
+  "parentId": "a1fa3101-9c0c-45a4-9a11-7d89468adef6",
+  "rootParentId": "3f297d30-8e74-495a-b816-5305030bfc21",
+  "name": "dog_throwup - nofood - yes",
+  "auto": true,
+  "contexts": [
+    "dog_throwup-nofood-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dog_throwup.dog_throwup-custom.dog_throwup-nofood-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "20분 거리에 동물 병원이 하나 있어요"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

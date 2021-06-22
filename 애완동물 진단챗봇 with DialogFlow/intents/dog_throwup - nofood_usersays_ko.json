@@ -1,0 +1,112 @@
+[
+  {
+    "id": "2cb6f863-7151-4b1d-bacb-d29611a914ef",
+    "data": [
+      {
+        "text": "묽어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "425eaeba-227f-44f4-a6e1-62bcf55dcd94",
+    "data": [
+      {
+        "text": "점성",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 있는 ",
+        "userDefined": false
+      },
+      {
+        "text": "구토",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "에요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5edc8cd6-46ae-49a5-a153-d0c19da14537",
+    "data": [
+      {
+        "text": "묽은 ",
+        "userDefined": false
+      },
+      {
+        "text": "토",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "에요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "35b665f7-3add-44aa-8034-0466acaf77e4",
+    "data": [
+      {
+        "text": "거품이에요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bd64a36a-9ce2-4e9b-ac62-0df140d9b8c8",
+    "data": [
+      {
+        "text": "음식물",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 없는 ",
+        "userDefined": false
+      },
+      {
+        "text": "형태",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "에요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

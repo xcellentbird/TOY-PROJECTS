@@ -1,0 +1,55 @@
+{
+  "id": "3f297d30-8e74-495a-b816-5305030bfc21",
+  "name": "dog_throwup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "dog_throwup-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f8063493-c815-4f1a-85a5-0df7ffe5fc21",
+          "name": "animal",
+          "required": false,
+          "dataType": "@Animal",
+          "value": "$animal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "구토의 형태는 어떠한가요?? 작은 알갱이인가요? 덩어리인가요? 아니면 음식물이 없는 형태인가요?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

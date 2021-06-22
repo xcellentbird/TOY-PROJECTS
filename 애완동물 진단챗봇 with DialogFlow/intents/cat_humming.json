@@ -1,0 +1,50 @@
+{
+  "id": "8d4e7af8-1103-4a30-9fcc-cc0d5711bdcf",
+  "name": "cat_humming",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af9e5949-ecf8-46a8-a980-26663336545b",
+          "name": "animal",
+          "required": false,
+          "dataType": "@Animal",
+          "value": "$animal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "고양이의 호흡에 변화가 있다면 고양이가 스스로도 고통스러워하는 상태에요. 빨리 병원에 내원하시는 게 좋을 것 같아요. 가까운 병원은 30분 거리에 있어요"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c56625f7-ce10-4d5f-86f1-b3245353c7c4",
+  "parentId": "9c2517c8-8750-4326-8fe5-891602afa381",
+  "rootParentId": "9c2517c8-8750-4326-8fe5-891602afa381",
+  "name": "cat_throwup - yes",
+  "auto": true,
+  "contexts": [
+    "cat_throwup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cat_throwup.cat_throwup-yes",
+      "affectedContexts": [
+        {
+          "name": "cat_throwup-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "그렇다면 고양이의 위나 식도가 좋지 않은 상태인 것 같아요. 가까운 병원을 추천해드릴까요?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

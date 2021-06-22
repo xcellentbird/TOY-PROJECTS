@@ -1,0 +1,124 @@
+[
+  {
+    "id": "0b059d82-52df-468e-aa07-b62bc9e73772",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 ",
+        "userDefined": false
+      },
+      {
+        "text": "토",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5e480801-d703-4dad-8a66-cfde18e33020",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 먹은 것을 뱉어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a91eeb3c-4c08-42fb-91e3-acd9383f9689",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 먹은 것을 막 뱉어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "858faf5b-d4d3-4fa8-a43b-dabd30aeea82",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 ",
+        "userDefined": false
+      },
+      {
+        "text": "토",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "를 해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bd522498-5f2b-4923-b84b-98a676425410",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 ",
+        "userDefined": false
+      },
+      {
+        "text": "구토",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "를 해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

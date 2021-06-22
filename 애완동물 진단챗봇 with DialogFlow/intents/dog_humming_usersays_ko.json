@@ -1,0 +1,115 @@
+[
+  {
+    "id": "8c2c7558-5a35-4203-8ae5-cadf3e317e5a",
+    "data": [
+      {
+        "text": "강아지",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 기침을 해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "3be6dadd-9b67-4c38-9e08-f3a3a5a06455",
+    "data": [
+      {
+        "text": "강아지",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " 호흡",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 거칠어졌어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "407b83cb-d27b-4f60-869e-9401dd237f75",
+    "data": [
+      {
+        "text": "강아지",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " 호흡",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 이상해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4ca31048-9645-4508-9f0c-fc60a2258554",
+    "data": [
+      {
+        "text": "강아지",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 헉헉거려요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4bce8bce-bc34-442c-8ef1-c1f88f9c9a83",
+    "data": [
+      {
+        "text": "강아지",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 숨을 잘 못 쉬어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

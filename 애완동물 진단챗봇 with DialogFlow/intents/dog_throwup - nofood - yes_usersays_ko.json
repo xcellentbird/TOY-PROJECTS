@@ -1,0 +1,132 @@
+[
+  {
+    "id": "30a8dc16-6ec2-48d9-ac2e-ca408d058be9",
+    "data": [
+      {
+        "text": "그럼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "28444c8a-0f71-4bb9-964a-17b563fa7fd9",
+    "data": [
+      {
+        "text": "확인",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b61d6ebc-c146-44e6-a82e-cc6b9a18bf81",
+    "data": [
+      {
+        "text": "좋아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fd2bfcf1-4907-42aa-af98-0a9ad81ef636",
+    "data": [
+      {
+        "text": "물론",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e955dc5f-0224-4bbd-9f5d-0055614940bc",
+    "data": [
+      {
+        "text": "해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "320a2888-dad4-43f3-b2d1-2df5a6d73ab0",
+    "data": [
+      {
+        "text": "상관없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "aa7baf08-e08e-41bf-a95e-e57bede6631d",
+    "data": [
+      {
+        "text": "바로 그거야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "060142bb-7c4b-4f9a-acc3-5027c49e976f",
+    "data": [
+      {
+        "text": "맞아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bda9706f-7340-4742-a765-f80578e10648",
+    "data": [
+      {
+        "text": "동의",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a77ad6fc-e21e-4d91-9d9c-dc4131e40aca",
+    "data": [
+      {
+        "text": "그래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

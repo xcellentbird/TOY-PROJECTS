@@ -1,0 +1,39 @@
+{
+  "id": "5a6c6b7b-1256-4618-a035-0758ab2b9bbc",
+  "parentId": "c56625f7-ce10-4d5f-86f1-b3245353c7c4",
+  "rootParentId": "9c2517c8-8750-4326-8fe5-891602afa381",
+  "name": "cat_throwup - yes - yes",
+  "auto": true,
+  "contexts": [
+    "cat_throwup-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cat_throwup.cat_throwup-yes.cat_throwup-yes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "걸어서 20분 위치에 동물 병원이 하나 있어요."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

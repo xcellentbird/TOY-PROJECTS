@@ -1,0 +1,59 @@
+{
+  "id": "c53db60b-3b35-463f-a511-01b8b7d5aaf9",
+  "parentId": "3f297d30-8e74-495a-b816-5305030bfc21",
+  "rootParentId": "3f297d30-8e74-495a-b816-5305030bfc21",
+  "name": "dog_throwup - Lump",
+  "auto": true,
+  "contexts": [
+    "dog_throwup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dog_throwup.dog_throwup-custom",
+      "affectedContexts": [
+        {
+          "name": "dog_throwup-Lump-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "36be2f8e-d7cc-4afe-b90f-427d5b32961b",
+          "name": "throwup",
+          "required": false,
+          "dataType": "@throwup",
+          "value": "$throwup",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "#dog_throwup-followup.throwup 라면 음식을 빨리 먹었거나 식후 격한 운동을 해서 그런 거에요. 체하지 않도록 음식을 천천히 먹게 하고, 식사 직후 운동은 피해주세요"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

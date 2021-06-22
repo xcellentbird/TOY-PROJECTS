@@ -1,0 +1,64 @@
+[
+  {
+    "id": "e77bc8b0-3bac-4a3d-919a-2d6a49edd839",
+    "data": [
+      {
+        "text": "덩어리",
+        "meta": "@throwup",
+        "alias": "throwup",
+        "userDefined": true
+      },
+      {
+        "text": "요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "53b0e238-a505-423b-a9c7-87d27f68c849",
+    "data": [
+      {
+        "text": "덩어리",
+        "meta": "@throwup",
+        "alias": "throwup",
+        "userDefined": true
+      },
+      {
+        "text": "형태",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "에요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "925fe0be-118c-4481-895d-0030e3329f6d",
+    "data": [
+      {
+        "text": "덩어리",
+        "meta": "@throwup",
+        "alias": "throwup",
+        "userDefined": true
+      },
+      {
+        "text": "에요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

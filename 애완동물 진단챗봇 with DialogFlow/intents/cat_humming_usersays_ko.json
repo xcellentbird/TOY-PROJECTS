@@ -1,0 +1,284 @@
+[
+  {
+    "id": "992e155b-81d5-428a-97ea-76c967c813f9",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 숨을 잘 못 쉬어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5322da9f-101b-4e7e-a28e-5df4c9c0b9f4",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 호흡을 이상하게 해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d178ad07-cc51-4323-a229-614a6bec9d54",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 숨",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "찬",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 것 같아요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1bf2b61e-dfb6-489d-bf53-6fe28c7312aa",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 숨을 이상하게 쉬어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a2c8da79-7a57-4508-9208-ebfdbf0a8a5a",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 숨쉬는 게 이상해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6e7d8923-9789-4991-8189-5f4bc952285a",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " 숨",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 거칠어졌어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "13411681-7b41-4eea-83a2-83d101f7d2bf",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 숨 쉬는 게 빨라졌어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "98ff6ce2-2163-44e5-9483-e6bf55bb0453",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 숨을 빨리 쉬어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "3a9e77c0-faec-46dc-aa9e-32334e05f229",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " 호흡",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 거칠어졌어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cb0d8cd2-018e-4d77-b544-a5398de5d050",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " 호흡",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 짧아졌어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c8b4eba8-4776-43cd-9e5d-e1945fda22f4",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " 호흡",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 빨라졌어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fa1b68ab-c892-4477-a0c9-c44070681f6f",
+    "data": [
+      {
+        "text": "고양이",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 헉헉 거려요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

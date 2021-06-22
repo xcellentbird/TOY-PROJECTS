@@ -1,0 +1,39 @@
+{
+  "id": "54558455-d3f8-4e14-a39b-a700d5d481bb",
+  "parentId": "9c2517c8-8750-4326-8fe5-891602afa381",
+  "rootParentId": "9c2517c8-8750-4326-8fe5-891602afa381",
+  "name": "cat_throwup - no",
+  "auto": true,
+  "contexts": [
+    "cat_throwup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cat_throwup.cat_throwup-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "크게 염려할 것 없어요. 고양이가 헤어볼을 토한 경우 아주 자연스러운 현상이에요. 소화되지 않은 사료를 토했을 경우, 과식이 문제랍니다. 한 번에 주는 밥 양을 줄여주세요. 구토가 노랗거나 하얗고 투명한 경우, 굶주린 상태에 있어 위액을 토한 거에요."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

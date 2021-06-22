@@ -1,0 +1,50 @@
+{
+  "id": "d65b03b1-74bb-483b-983d-5703b12807ed",
+  "name": "dog_humming",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "945cbe3d-2520-460f-9eaf-fa0c5177e03b",
+          "name": "animal",
+          "required": false,
+          "dataType": "@Animal",
+          "value": "$animal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "강아지의 호흡 기관이나 심장에 이상이 있는 것 같아요. 가까운 병원에 가보시는 걸 추천드려요. 19분 거리에 동물 병원이 하나 있어요."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

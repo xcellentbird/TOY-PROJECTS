@@ -1,0 +1,108 @@
+[
+  {
+    "id": "7fda0a53-4f23-4411-9226-0d7d9d53bb3c",
+    "data": [
+      {
+        "text": "강아지",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 ",
+        "userDefined": false
+      },
+      {
+        "text": "토",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "를 막 해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8486cf3d-8cd5-47df-ac59-c3320035efd6",
+    "data": [
+      {
+        "text": "강아지",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 ",
+        "userDefined": false
+      },
+      {
+        "text": "토",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "를 해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b03c7e5b-6c1e-4045-941c-fd562adb776d",
+    "data": [
+      {
+        "text": "얘가 ",
+        "userDefined": false
+      },
+      {
+        "text": "구토",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "를 해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c7d1cd57-b5f3-497d-9a38-6a2cf81e1f0c",
+    "data": [
+      {
+        "text": "강아지",
+        "meta": "@Animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "가 ",
+        "userDefined": false
+      },
+      {
+        "text": "구토",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "를 해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

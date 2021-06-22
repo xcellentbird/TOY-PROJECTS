@@ -1,0 +1,9 @@
+{
+  "id": "ef7bec9a-bff2-416f-9afc-116482700adb",
+  "name": "throwup",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
