@@ -31,28 +31,8 @@
   5. 모델 성능 개선을 위해 사용시 즉각 데이터를 수집하는 것도 필요해보인다. differential privacy 정책에 의하면 온전한 데이터를 서버에 보내는 것이 아닌, 일부 학습된(사람이 해석할 수 없는) 가중치만을 서버에 보낼 필요가 있어보인다. 모바일 환경에서 NDK라는 것을 사용하면 되지 않을까? Classifier만 학습하도록 하면 되지 않을까?
   6. 나중에 숫자 뿐만 아니라 글씨도 알아볼 수 있도록 하면 좋을 것 같다. ~~텍스트 분석도 해야하려나~~
   7. Random Ferns, Bayesian 이론을 여기에 적용할 수도 있을까?
-
-  공부해야할 것들 - 다 할 필요는 없다 천천히 하나씩 꼼꼼하게
-  1. Text Detection, Recognition OCR 논문 리뷰 - (볼 것은 많다...이활석님 Github https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
-  2. Kotiln 공부
-  3. C++ 복습 (교재: 전문가를 위한 C++)
-  4. ML, DL 공부 - (https://github.com/xcellentbird/Deep_Learning)
-  5. Android(Linux, NDK), API(Firebase, OpenCV, Tensorflow-Lite) - (https://github.com/xcellentbird/Study-Android)
-  6. Django, Naver Cloud, Networks - Backends
-  7. 기술 철학
   
-  Community를 활용하자.
-  - 현 DL 논문 리뷰 스터디를 통해 OCR 논문을 리뷰하고, 다른 의견을 들어보자. 영어 논문을 읽는 것에 익숙해지자. ~~영어 공부도 좀~~
-  - KDT 데브 코스를 통해, 중급 이상의 ML지식, Sparks, Django 공부하자.
-  - Android 스터디를 통해 UI, OS 등을 공부하고 실제 Android App을 만들어보자. 사용자 경험을 분석하고, AI 윤리 규칙을 고려하여 개발해보자.
-  - 모르는 것은 Kaggle Korea, Keras Korea, Vision-AI 오픈 카톡방을 이용해 물어보자! ~~열심히 하는 모습이 눈에 띄면 더 좋잖아?~~
-  
-  TMI
-  - 색채 심리학과 Vision Machine의 결합은 어떤 UX로 이어지며 어떻게 디자인 할 수 있을까? ~~Clova Rush에 참여할 수 있으면 좋으련만 ㅠ~~
-  - 조만간 Github Study Repo 통합이 필요해보인다.
-  - 개발자에게 필요한 역량? 집요함과 약간의 유연성, 문제해결능력, 언어 및 프레임워크에 대한 깊은 지식, CS 지식(알고리즘, 운영체제, 컴퓨터구조, 자료구조, 네트워크, DB)
-  - 좋아하는 공부를 하는 것도 좋지만, 사회의 Needs를 분석하고, 그에 맞는 기술을 공부하는 것 또한 중요하다. - AI Engineer + ML Ops + Android (+ iOS)
-
+ 
 </details>
 <details>
   <summary><b> ~ 2020년 5월 12일</b></summary>
