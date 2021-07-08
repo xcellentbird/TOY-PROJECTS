@@ -11,7 +11,7 @@
 
 ## Dev Note
 <details>
-  <summary><b> ~ 2020년 4월 9일</b></summary>
+  <summary><b> ~ 2021년 4월 9일</b></summary>
   
   1. MNIST 숫자 데이터를 이용하여 CNN 모델 만들기
   2. mnist.tflite(Tensorflow Lite) 모델 파일 변형하기
@@ -21,7 +21,7 @@
   
 </details>
 <details>
-  <summary><b> ~ 2020년 4월 23일</b></summary>
+  <summary><b> ~ 2021년 4월 23일</b></summary>
   
   Feedback
   1. 단순 Toy Project로 끝내지 말자 ⭐
@@ -35,7 +35,7 @@
  
 </details>
 <details>
-  <summary><b> ~ 2020년 5월 12일</b></summary>
+  <summary><b> ~ 2021년 5월 12일</b></summary>
   
   1. 먼저 숫자가 아닌 이미지를 판별해내야한다.
   2. '숫자다'와 '숫자아니다'를 먼저 분류하고, '숫자다'일 경우, 이미지를 다시 숫자별로 분류해내는 게 좋을까? => 그렇게 되면 NN을 두번 거쳐야한다. 시간이 오래걸린다. 하지만 더 정확해지지 않을까? 이게 모델 앙상블의 개념일 것 같다.
@@ -45,5 +45,14 @@
   6. 어플에는 update버튼이 있어야한다. 그래야 Serialization된 모델을 받아와 De-Serialization 작업을 수행하고 모델을 얻어낼 수가 있다.
   
   = 정리: 어플에서 데이터 전송 및 모델 업데이트 기능 추가. 학습용 서버 구축 및 모델 업데이트 기능 구현.
+  
+</details>
+<details>
+  <summary><b> 2020년 7월 8일</b></summary>
+  
+  task 정리
+  1. 모델 업데이트를 위한 Server(AWS Cloud, Django 사용 계획) 만들기
+  2. 손글씨 숫자를 batch단위로 모아 기존 모델에 재학습(가중치는 그대로 가져온 상태로)
+  3. 학습도 모바일 앱 상에서 할 수도 있을까? 추가적으로 연구해볼 필요가 있겠다.
   
 </details>
