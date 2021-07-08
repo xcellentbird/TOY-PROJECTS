@@ -48,7 +48,7 @@
   
 </details>
 <details>
-  <summary><b> 2020년 7월 8일</b></summary>
+  <summary><b> ~ 2020년 7월 8일</b></summary>
   
   task 정리
   1. 모델 업데이트를 위한 Server(AWS Cloud, Django 사용 계획) 만들기
