@@ -11,5 +11,6 @@
 - 또한 해당 Cluster를 결정하는 주요 Feature를 선정하였을 때, 이 Feature 또는 Feature set을 의미있는 Feature(set)으로 생각할 수 있다.
 - 이와 같은 Image Feature Engineering을 통해 이미지나 해당 class를 해석할 수 있을 것으로 보인다. 또한, 모델이 어떠한 특징을 잡아내는지 알 수 있지 않을까?
 
-### 사용 기술 스택
+
+>사용 기술 스택
 *Python, PyTorch, Scikit-Learn, Pandas, Matplotlib, Numpy*
