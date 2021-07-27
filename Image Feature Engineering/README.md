@@ -1,7 +1,7 @@
 # Image Feature Engineering with AutoEncoder
 - Tranposed Conv를 이용하여 AutoEncoder 모델을 간단하게 만들어보고, Encoder를 통해 Feature를 얻어냈습니다.
 
-# Clustering with KMeans
+# KMeans Clustering
 - 데이터 선정: MNIST Fashion dataset
 - 위의 encoder에서 얻은 feature를 이용하여 clustering을 수행하였고, class 기준으로 clustering 결과를 해석하였습니다.
 
