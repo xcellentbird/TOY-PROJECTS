@@ -13,4 +13,4 @@
 
 
 >사용 기술 스택: Deep Learning, Machine Learning, Data Analysis, Computer Vision.  
-> *Python, PyTorch, Scikit-Learn, Pandas, Matplotlib, Numpy*
+> * *Python, PyTorch, Scikit-Learn, Pandas, Matplotlib, Numpy*
