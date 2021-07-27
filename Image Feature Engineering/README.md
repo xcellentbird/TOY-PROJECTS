@@ -12,5 +12,5 @@
 - 이와 같은 Image Feature Engineering을 통해 이미지나 해당 class를 해석할 수 있을 것으로 보인다. 또한, 모델이 어떠한 특징을 잡아내는지 알 수 있지 않을까?
 
 
->사용 기술 스택: Deep Learning, Machine Learning, Data Analysis - 
+>사용 기술 스택: Deep Learning, Machine Learning, Data Analysis, Computer Vision - 
 *Python, PyTorch, Scikit-Learn, Pandas, Matplotlib, Numpy*
